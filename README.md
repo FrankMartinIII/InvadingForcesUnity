@@ -1,2 +1,2 @@
 # InvadingForcesUnity
- Game project I made for CSC 1
+ In DEMO folder, run InvadingForcesDemo.exe to play
